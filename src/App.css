@@ -1,0 +1,27 @@
+/* div {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+} */
+body {
+      background-color: #def9c2;
+}
+
+#word {
+      display: flex;
+      flex-direction: column;
+      /* height: 36vw; */
+      margin: auto;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+}
+
+#hi {
+      text-align: center;
+      margin-top: 5%;
+      border: 2px solid blue;
+      padding: 17px;
+      box-shadow: 5px 10px 15px 25px #ace08e;
+}
